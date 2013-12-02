@@ -1,8 +1,8 @@
 {
-    "name": "mercator/pulsestorm_launcher",
+    "name": "mercator/PulsestormLauncher",
     "type": "magento-module",
     "description": "Mercator repository for Pulsestorm_Launcher. Provides navigation shortcuts for the admin console's navigation and gloal search.",
-    "homepage": "https://github.com/mercator/pulsestorm_launcher",
+    "homepage": "https://github.com/mercator/PulsestormLauncher",
     "require": {
         "magento-hackathon/magento-composer-installer": "*"
     }
